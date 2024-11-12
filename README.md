@@ -68,7 +68,10 @@ This dashboard is designed to help hotel management analyze key performance metr
    - Comparative analysis across different properties reveals performance disparities that can be targeted for improvement.
 
 ### [5] **% Revenue by Category**
-   - Revenue distribution analysis helps in identifying the most and least profitable categories.
+   - Revenue distribution analysis helps identify the most and least profitable categories.
 
 ### [6] **Realization %**
    - The Realization % metric provides insights into the effectiveness of the hotel's revenue management strategies.
+
+## Contact
+Connect with me at https://www.linkedin.com/in/raghavantm/ or email me at [raghavan2583@gmail.com]. I’m open to discussing my findings, methods, or potential collaborations in data analysis.
